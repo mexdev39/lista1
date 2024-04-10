@@ -1,0 +1,78 @@
+
+<rss xmlns:irc="https://small-time-teaching.000webhostapp.com/approku.xml" version="2.0">
+<channel>
+<item>
+<irc:deeplinkid>STR1</irc:deeplinkid>
+<irc:shortdescriptionline1>CAPITULO 1</irc:shortdescriptionline1>
+<irc:title>Stranger Things</irc:title>
+<irc:poster>https://panel.budtv-ultra.com/posters/g3nzhHBDTrJ7RWhzozFTYFjvRbd.jpg</irc:poster>
+<irc:url>http://vod5.elitetv.mx:8081/vod/E.Plus/stranger_things/T1/mp4:Stranger.Things.3.S1E1.mkv.mp4/playlist.m3u8</irc:url>
+<irc:streamformat>hls</irc:streamformat>
+</item>
+
+<item>
+<irc:deeplinkid>STR2</irc:deeplinkid>
+<irc:shortdescriptionline1>CAPITULO 2</irc:shortdescriptionline1>
+<irc:title>Stranger Things</irc:title>
+<irc:poster>https://panel.budtv-ultra.com/posters/g3nzhHBDTrJ7RWhzozFTYFjvRbd.jpg</irc:poster>
+<irc:url>http://vod5.elitetv.mx:8081/vod/E.Plus/stranger_things/T1/mp4:Stranger.Things.3.S1E2.mkv.mp4/playlist.m3u8</irc:url>
+<irc:streamformat>hls</irc:streamformat>
+</item>
+
+<item>
+<irc:deeplinkid>STR3</irc:deeplinkid>
+<irc:shortdescriptionline1>CAPITULO 3</irc:shortdescriptionline1>
+<irc:title>Stranger Things</irc:title>
+<irc:poster>https://panel.budtv-ultra.com/posters/g3nzhHBDTrJ7RWhzozFTYFjvRbd.jpg</irc:poster>
+<irc:url>http://vod5.elitetv.mx:8081/vod/E.Plus/stranger_things/T1/mp4:Stranger.Things.3.S1E3.mkv.mp4/playlist.m3u8</irc:url>
+<irc:streamformat>hls</irc:streamformat>
+</item>
+
+<item>
+<irc:deeplinkid>STR4</irc:deeplinkid>
+<irc:shortdescriptionline1>CAPITULO 4</irc:shortdescriptionline1>
+<irc:title>Stranger Things</irc:title>
+<irc:poster>https://panel.budtv-ultra.com/posters/g3nzhHBDTrJ7RWhzozFTYFjvRbd.jpg</irc:poster>
+<irc:url>http://vod5.elitetv.mx:8081/vod/E.Plus/stranger_things/T1/mp4:Stranger.Things.3.S1E4.mkv.mp4/playlist.m3u8</irc:url>
+<irc:streamformat>hls</irc:streamformat>
+</item>
+
+<item>
+<irc:deeplinkid>STR5</irc:deeplinkid>
+<irc:shortdescriptionline1>CAPITULO 5</irc:shortdescriptionline1>
+<irc:title>Stranger Things</irc:title>
+<irc:poster>https://panel.budtv-ultra.com/posters/g3nzhHBDTrJ7RWhzozFTYFjvRbd.jpg</irc:poster>
+<irc:url>http://vod5.elitetv.mx:8081/vod/E.Plus/stranger_things/T1/mp4:Stranger.Things.3.S1E5.mkv.mp4/playlist.m3u8</irc:url>
+<irc:streamformat>hls</irc:streamformat>
+</item>
+
+<item>
+<irc:deeplinkid>STR6</irc:deeplinkid>
+<irc:shortdescriptionline1>CAPITULO 6</irc:shortdescriptionline1>
+<irc:title>Stranger Things</irc:title>
+<irc:poster>https://panel.budtv-ultra.com/posters/g3nzhHBDTrJ7RWhzozFTYFjvRbd.jpg</irc:poster>
+<irc:url>http://vod5.elitetv.mx:8081/vod/E.Plus/stranger_things/T1/mp4:Stranger.Things.3.S1E6.mkv.mp4/playlist.m3u8</irc:url>
+<irc:streamformat>hls</irc:streamformat>
+</item>
+
+<item>
+<irc:deeplinkid>STR7</irc:deeplinkid>
+<irc:shortdescriptionline1>CAPITULO 7</irc:shortdescriptionline1>
+<irc:title>Stranger Things</irc:title>
+<irc:poster>https://panel.budtv-ultra.com/posters/g3nzhHBDTrJ7RWhzozFTYFjvRbd.jpg</irc:poster>
+<irc:url>http://vod5.elitetv.mx:8081/vod/E.Plus/stranger_things/T1/mp4:Stranger.Things.3.S1E7.mkv.mp4/playlist.m3u8</irc:url>
+<irc:streamformat>hls</irc:streamformat>
+</item>
+
+<item>
+<irc:deeplinkid>STR8</irc:deeplinkid>
+<irc:shortdescriptionline1>CAPITULO 8</irc:shortdescriptionline1>
+<irc:title>Stranger Things</irc:title>
+<irc:poster>https://panel.budtv-ultra.com/posters/g3nzhHBDTrJ7RWhzozFTYFjvRbd.jpg</irc:poster>
+<irc:url>http://vod5.elitetv.mx:8081/vod/E.Plus/stranger_things/T1/mp4:Stranger.Things.3.S1E8.mkv.mp4/playlist.m3u8</irc:url>
+<irc:streamformat>hls</irc:streamformat>
+</item>
+
+
+</channel>
+</rss>
