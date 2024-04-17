@@ -1,8 +1,14 @@
 <!--  ********** Copyright 2016 Roku Corp.  All Rights Reserved. **********  -->
 
 <Content>
-<item title="VIX TUDN" description="Apple test stream" hdposterurl="https://www.record.com.mx/sites/default/files/articulos-rrss/2022/03/13/nota35.jpg" streamformat="hls" url="https://linear-383.frequency.stream/mt/studio/383/hls/master/playlist.m3u8"/>
+<item title="VIX TUDN" description="CHAMPIONS" hdposterurl="https://www.record.com.mx/sites/default/files/articulos-rrss/2022/03/13/nota35.jpg" streamformat="hls" url="https://linear-383.frequency.stream/mt/studio/383/hls/master/playlist.m3u8"/>
 
-<item title="TUDN" description="a short 15-minute fantasy film " hdposterurl="https://www.record.com.mx/sites/default/files/articulos-rrss/2022/03/13/nota35.jpg" streamformat="hls" url="https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8"/>
+<item title="VIX TUDN" description="CHAMPIONS" hdposterurl="https://www.record.com.mx/sites/default/files/articulos-rrss/2022/03/13/nota35.jpg" streamformat="hls" url="https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8"/>
+
+<item title="TNT MX" description="CHAMPIONS" hdposterurl="https://seeklogo.com/images/T/tnt-latin-america-logo-6C5053D00E-seeklogo.com.png" streamformat="hls" url="http://serviceskp.org:8080/live/oneplus2/QWEsIllIp2h7kX1I/136.m3u8"/>
+
+<item title="TUDN USA SD" description="CHAMPIONS" hdposterurl="https://seeklogo.com/images/T/tudn-logo-5AD119A8E6-seeklogo.com.png" streamformat="hls" url="http://serviceskp.org:8080/live/oneplus2/QWEsIllIp2h7kX1I/175623.m3u8"/>
+
+<item title="TUDN USA HD" description="CHAMPIONS" hdposterurl="https://seeklogo.com/images/T/tudn-logo-5AD119A8E6-seeklogo.com.png" streamformat="hls" url="http://serviceskp.org:8080/live/oneplus2/QWEsIllIp2h7kX1I/175621.m3u8"/>
 
 </Content>
