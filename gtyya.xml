@@ -13,6 +13,10 @@
 
 <item title="TUDN USA HD" description="CHAMPIONS" hdposterurl="https://seeklogo.com/images/T/tudn-logo-5AD119A8E6-seeklogo.com.png" streamformat="hls" url="http://serviceskp.org:8080/live/oneplus2/QWEsIllIp2h7kX1I/175621.m3u8"/>
 
+<item title="FOX SPORTS" description="CHAMPIONS" hdposterurl="https://w7.pngwing.com/pngs/825/526/png-transparent-fox-sports-hd-logo.png" streamformat="autodetect" url="http://serviceskp.org:8080/live/oneplus2/QWEsIllIp2h7kX1I/414.m3u8"/>
+
+<item title="FOX SPORTS 2" description="CHAMPIONS" hdposterurl="hhttps://magosdeldeporte.com/wp-content/uploads/2023/01/fox-sports2-mexico.png" streamformat="autodetect" url="http://serviceskp.org:8080/live/oneplus2/QWEsIllIp2h7kX1I/416.m3u8"/>
+
 <item title="FOX SPORTS PREMIUM" description="CHAMPIONS" hdposterurl="https://i.blogs.es/61a41c/fox-sports-premium-230322-1200x675-1/1366_521.jpg" streamformat="autodetect" url="http://serviceskp.org:8080/live/oneplus2/QWEsIllIp2h7kX1I/125927.m3u8"/>
 
 <item title="AZTECA 7" description="CHAMPIONS" hdposterurl="https://brandemia.org/sites/default/files/inline/images/azteca7_logo_antes.jpg" streamformat="autodetect" url="http://serviceskp.org:8080/live/oneplus2/QWEsIllIp2h7kX1I/61335.m3u8"/>
