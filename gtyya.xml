@@ -15,4 +15,8 @@
 
 <item title="FOX SPORTS PREMIUM" description="CHAMPIONS" hdposterurl="https://i.blogs.es/61a41c/fox-sports-premium-230322-1200x675-1/1366_521.jpg" streamformat="autodetect" url="http://serviceskp.org:8080/live/oneplus2/QWEsIllIp2h7kX1I/125927.m3u8"/>
 
+<item title="AZTECA 7" description="CHAMPIONS" hdposterurl="https://brandemia.org/sites/default/files/inline/images/azteca7_logo_antes.jpg" streamformat="autodetect" url="http://u.m3uts.xyz/stream/hls/5.m3u8"/>
+
+<item title="CANAL 5" description="CHAMPIONS" hdposterurl="https://seeklogo.com/images/C/Canal_5-logo-807797A341-seeklogo.com.png" streamformat="autodetect" url="http://u.m3uts.xyz/stream/hls/14.m3u8"/>
+
 </Content>
