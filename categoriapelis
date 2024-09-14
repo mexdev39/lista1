@@ -1,0 +1,116 @@
+{
+        "categorias": [
+            {
+                    "TITLE" : "Ultimos Titulos Agregados",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/movies/movies.php?username=099300399&password=julio2027&cat=167&f=.rss"
+            },
+            {
+                    "TITLE" : "Navidad",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/movies/movies.php?username=099300399&password=julio2027&cat=495&f=.rss"
+            },
+            {
+                    "TITLE" : "4K",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/movies/movies.php?username=099300399&password=julio2027&cat=409&f=.rss"
+            },
+            {
+                    "TITLE" : "Accion",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/movies/movies.php?username=099300399&password=julio2027&cat=39&f=.rss"
+            },
+            {
+                    "TITLE" : "Animacion",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/movies/movies.php?username=099300399&password=julio2027&cat=42&f=.rss"
+            },
+            {
+                    "TITLE" : "Animacion Disney",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/movies/movies.php?username=099300399&password=julio2027&cat=284&f=.rss"
+            },
+            {
+                    "TITLE" : "Anime",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/movies/movies.php?username=099300399&password=julio2027&cat=419&f=.rss"
+            },
+            {
+                    "TITLE" : "Anime 4K",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/movies/movies.php?username=099300399&password=julio2027&cat=420&f=.rss"
+            },
+            {
+                    "TITLE" : "Aventura",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/movies/movies.php?username=099300399&password=julio2027&cat=45&f=.rss"
+            },
+            {
+                    "TITLE" : "Biografia",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/movies/movies.php?username=099300399&password=julio2027&cat=50&f=.rss"
+            },
+            {
+                    "TITLE" : "Cine Mexicano",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/movies/movies.php?username=099300399&password=julio2027&cat=200&f=.rss"
+            },
+            {
+                    "TITLE" : "Comedia",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/movies/movies.php?username=099300399&password=julio2027&cat=40&f=.rss"
+            },
+            {
+                    "TITLE" : "Crimen",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/movies/movies.php?username=099300399&password=julio2027&cat=242&f=.rss"
+            },
+            {
+                    "TITLE" : "Drama",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/movies/movies.php?username=099300399&password=julio2027&cat=44&f=.rss"
+            },
+            {
+                    "TITLE" : "Documental",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/movies/movies.php?username=099300399&password=julio2027&cat=108&f=.rss"
+            },
+            {
+                    "TITLE" : "Familia",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/movies/movies.php?username=099300399&password=julio2027&cat=511&f=.rss"
+            },
+            {
+                    "TITLE" : "Ficcion",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/movies/movies.php?username=099300399&password=julio2027&cat=43&f=.rss"
+            },
+            {
+                    "TITLE" : "Horror",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/movies/movies.php?username=099300399&password=julio2027&cat=46&f=.rss"
+            },
+            {
+                    "TITLE" : "Musical",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/movies/movies.php?username=099300399&password=julio2027&cat=67&f=.rss"
+            },
+            {
+                    "TITLE" : "Romance",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/movies/movies.php?username=099300399&password=julio2027&cat=243&f=.rss"
+            },
+            {
+                    "TITLE" : "Stand UP: Latinoamerica",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/movies/movies.php?username=099300399&password=julio2027&cat=215&f=.rss"
+            },
+            {
+                    "TITLE" : "Suspenso",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/movies/movies.php?username=099300399&password=julio2027&cat=48&f=.rss"
+            },
+            {
+                    "TITLE" : "Thriller",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/movies/movies.php?username=099300399&password=julio2027&cat=47&f=.rss"
+            },
+            {
+                    "TITLE" : "Wester",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/movies/movies.php?username=099300399&password=julio2027&cat=84&f=.rss"
+            },
+            {
+                    "TITLE" : "DC Comics",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/movies/movies.php?username=099300399&password=julio2027&cat=208&f=.rss"
+            },
+            {
+                    "TITLE" : "DC Comics 4K",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/movies/movies.php?username=099300399&password=julio2027&cat=413&f=.rss"
+            },
+            {
+                    "TITLE" : "Universo Marvel",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/movies/movies.php?username=099300399&password=julio2027&cat=206&f=.rss"
+            },
+            {
+                    "TITLE" : "Universo Marvel 4K",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/movies/movies.php?username=099300399&password=julio2027&cat=410&f=.rss"
+            }
+        ]
+}
