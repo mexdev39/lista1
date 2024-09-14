@@ -1,0 +1,192 @@
+{
+        "categorias": [
+            {
+                    "TITLE" : "DEPORTES - SPORTS",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/tv/tv.php?username=099300399&password=julio2027&cat=7&f=.rss"
+            },
+            {
+                    "TITLE" : "DOCUMENTALES - DOCUMENTARY",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/tv/tv.php?username=099300399&password=julio2027&cat=12&f=.rss"
+            },
+            {
+                    "TITLE" : "INFANTILES - KIDS",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/tv/tv.php?username=099300399&password=julio2027&cat=5&f=.rss"
+            },
+            {
+                    "TITLE" : "INTERNACIONALES",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/tv/tv.php?username=099300399&password=julio2027&cat=9&f=.rss"
+            },
+            {
+                    "TITLE" : "MUSICA",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/tv/tv.php?username=099300399&password=julio2027&cat=13&f=.rss"
+            },
+            {
+                    "TITLE" : "NOTICIAS - NEWS",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/tv/tv.php?username=099300399&password=julio2027&cat=8&f=.rss"
+            },
+            {
+                    "TITLE" : "PELICULAS",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/tv/tv.php?username=099300399&password=julio2027&cat=14&f=.rss"
+            },
+            {
+                    "TITLE" : "RELIGION",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/tv/tv.php?username=099300399&password=julio2027&cat=61&f=.rss"
+            },
+            {
+                    "TITLE" : "SERIES",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/tv/tv.php?username=099300399&password=julio2027&cat=10&f=.rss"
+            },
+            {
+                    "TITLE" : "VARIEDAD",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/tv/tv.php?username=099300399&password=julio2027&cat=11&f=.rss"
+            },
+            {
+                    "TITLE" : "ARGENTINA",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/tv/tv.php?username=099300399&password=julio2027&cat=72&f=.rss"
+            },
+            {
+                    "TITLE" : "BRASIL",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/tv/tv.php?username=099300399&password=julio2027&cat=91&f=.rss"
+            },
+            {
+                    "TITLE" : "CHILE",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/tv/tv.php?username=099300399&password=julio2027&cat=79&f=.rss"
+            },
+            {
+                    "TITLE" : "COLOMBIA",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/tv/tv.php?username=099300399&password=julio2027&cat=86&f=.rss"
+            },
+            {
+                    "TITLE" : "COSTA RICA",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/tv/tv.php?username=099300399&password=julio2027&cat=177&f=.rss"
+            },
+            {
+                    "TITLE" : "CUBA",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/tv/tv.php?username=099300399&password=julio2027&cat=294&f=.rss"
+            },
+            {
+                    "TITLE" : "ECUADOR",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/tv/tv.php?username=099300399&password=julio2027&cat=85&f=.rss"
+            },
+            {
+                    "TITLE" : "EL SALVADOR",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/tv/tv.php?username=099300399&password=julio2027&cat=298&f=.rss"
+            },
+            {
+                    "TITLE" : "ESPANA",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/tv/tv.php?username=099300399&password=julio2027&cat=82&f=.rss"
+            },
+            {
+                    "TITLE" : "GUATEMALA",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/tv/tv.php?username=099300399&password=julio2027&cat=297&f=.rss"
+            },
+            {
+                    "TITLE" : "HONDURAS",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/tv/tv.php?username=099300399&password=julio2027&cat=497&f=.rss"
+            },
+            {
+                    "TITLE" : "MEXICO",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/tv/tv.php?username=099300399&password=julio2027&cat=78&f=.rss"
+            },
+            {
+                    "TITLE" : "NICARAGUA",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/tv/tv.php?username=099300399&password=julio2027&cat=496&f=.rss"
+            },
+            {
+                    "TITLE" : "PANAMA",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/tv/tv.php?username=099300399&password=julio2027&cat=89&f=.rss"
+            },
+            {
+                    "TITLE" : "PARAGUAY",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/tv/tv.php?username=099300399&password=julio2027&cat=295&f=.rss"
+            },
+            {
+                    "TITLE" : "PERU",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/tv/tv.php?username=099300399&password=julio2027&cat=80&f=.rss"
+            },
+            {
+                    "TITLE" : "REP DOMINICANA",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/tv/tv.php?username=099300399&password=julio2027&cat=133&f=.rss"
+            },
+            {
+                    "TITLE" : "PUERTO RICO",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/tv/tv.php?username=099300399&password=julio2027&cat=145&f=.rss"
+            },
+            {
+                    "TITLE" : "URUGUAY",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/tv/tv.php?username=099300399&password=julio2027&cat=71&f=.rss"
+            },
+            {
+                    "TITLE" : "VENEZUELA",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/tv/tv.php?username=099300399&password=julio2027&cat=144&f=.rss"
+            },
+            {
+                    "TITLE" : "ADULTOS",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/tv/tv.php?username=099300399&password=julio2027&cat=26&f=.rss"
+            },
+            {
+                    "TITLE" : "MOVIES",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/tv/tv.php?username=099300399&password=julio2027&cat=30&f=.rss"
+            },
+            {
+                    "TITLE" : "NETWORK",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/tv/tv.php?username=099300399&password=julio2027&cat=27&f=.rss"
+            },
+            {
+                    "TITLE" : "EVENTOS",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/tv/tv.php?username=099300399&password=julio2027&cat=33&f=.rss"
+            },
+            {
+                    "TITLE" : "BUNDESLIGA",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/tv/tv.php?username=099300399&password=julio2027&cat=508&f=.rss"
+            },
+            {
+                    "TITLE" : "CAMPEONATO ARGENTINO ",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/tv/tv.php?username=099300399&password=julio2027&cat=516&f=.rss"
+            },
+            {
+                    "TITLE" : "CAMPEONATO BRASILERO ",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/tv/tv.php?username=099300399&password=julio2027&cat=515&f=.rss"
+            },
+            {
+                    "TITLE" : "CAMPEONATO URUGUAY",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/tv/tv.php?username=099300399&password=julio2027&cat=517&f=.rss"
+            },
+            {
+                    "TITLE" : "LALIGA",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/tv/tv.php?username=099300399&password=julio2027&cat=507&f=.rss"
+            },
+            {
+                    "TITLE" : "LMB",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/tv/tv.php?username=099300399&password=julio2027&cat=513&f=.rss"
+            },
+            {
+                    "TITLE" : "LMX",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/tv/tv.php?username=099300399&password=julio2027&cat=514&f=.rss"
+            },
+            {
+                    "TITLE" : "MLB",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/tv/tv.php?username=099300399&password=julio2027&cat=392&f=.rss"
+            },
+            {
+                    "TITLE" : "MLS",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/tv/tv.php?username=099300399&password=julio2027&cat=503&f=.rss"
+            },
+            {
+                    "TITLE" : "NFL",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/tv/tv.php?username=099300399&password=julio2027&cat=499&f=.rss"
+            },
+            {
+                    "TITLE" : "PREMIER LEAGUE",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/tv/tv.php?username=099300399&password=julio2027&cat=500&f=.rss"
+            },
+            {
+                    "TITLE" : "SERIE A",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/tv/tv.php?username=099300399&password=julio2027&cat=509&f=.rss"
+            },
+            {
+                    "TITLE" : "SERIES 24 HORAS",
+                    "ContentList" : "http://latinchannel.tv/ROKU/V3/tv/24h.php?username=099300399&password=julio2027&cat=0&f=.rss"
+            }
+        ]
+} 
