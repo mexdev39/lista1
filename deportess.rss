@@ -1,0 +1,1099 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+      <category>DEPORTES - SPORTS</category>
+    <title>LatinChannel.Tv</title>
+    <link/>
+    <description></description>
+    <pubDate></pubDate>
+    <image>
+      <title>latinChannel.Tv</title>
+      <url>http://s2.content.video.llnw.net/lovs/images-prod/59021fabe3b645968e382ac726cd6c7b/channel/1cfd09ab38e54f48be8498e0249f5c83/S9O.600x600.png</url>
+    </image>
+	  <item>
+      <title>1000XHora TV</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/10411.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_1000xhora.png" background="http://s0lc.net:8080/images/dep_1000xhora.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>ADRENALINA SPORTS NETWORK</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/165.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_adrenalina.png" background="http://s0lc.net:8080/images/dep_adrenalina.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>ADRENALINA SPORTS NETWORK (720p)</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/14641.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_adrenalina.png" background="http://s0lc.net:8080/images/dep_adrenalina.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>AYM SPORTS</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/97.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_aym_sports.png" background="http://s0lc.net:8080/images/dep_aym_sports.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>AZTECA DEPORTES NETWORK </title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/39576.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_tvazteca_deportes.png" background="http://s0lc.net:8080/images/dep_tvazteca_deportes.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>AZTECA DEPORTES NETWORK (1080)</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/39577.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_tvazteca_deportes.png" background="http://s0lc.net:8080/images/dep_tvazteca_deportes.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>BEIN SPORTS (USA)</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/18630.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_bein_sports.png" background="http://s0lc.net:8080/images/dep_bein_sports.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>BEINSPORTS 3</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/13119.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_bein_sports3.png" background="http://s0lc.net:8080/images/dep_bein_sports3.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>BEINSPORTS 4</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/3282.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_bein_sports4.png" background="http://s0lc.net:8080/images/dep_bein_sports4.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>BEINSPORTS 5</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/3283.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_bein_sports5.png" background="http://s0lc.net:8080/images/dep_bein_sports5.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>BEINSPORTS 6</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/3284.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_bein_sports6.png" background="http://s0lc.net:8080/images/dep_bein_sports6.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>BEINSPORTS 7</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/3285.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_bein_sports7.png" background="http://s0lc.net:8080/images/dep_bein_sports7.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>BEINSPORTS 8</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/3286.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_bein_sports8.png" background="http://s0lc.net:8080/images/dep_bein_sports8.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>BEINSPORTS N</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/405.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_bein_sports_n.png" background="http://s0lc.net:8080/images/dep_bein_sports_n.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>BEINSPORTS N (OP2)</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/442.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_bein_sports_n.png" background="http://s0lc.net:8080/images/dep_bein_sports_n.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>BEINSPORTS XTRA </title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/17273.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_bein_sports_xtra.png" background="http://s0lc.net:8080/images/dep_bein_sports_xtra.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>BEINSPORTS XTRA N</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/23517.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_bein_sports_xtra_n.png" background="http://s0lc.net:8080/images/dep_bein_sports_xtra_n.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>BUNDESLIGA 1 HD</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/1781.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/imagenes/1781.jpg" background="http://s0lc.net:8080/imagenes/1781.jpg" />
+      </media:content>
+    </item>
+	  <item>
+      <title>CBS SPORTS NETWORK</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/13531.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/imagenes/13531.jpg" background="http://s0lc.net:8080/imagenes/13531.jpg" />
+      </media:content>
+    </item>
+	  <item>
+      <title>CLARO SPORTS</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/4566.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/imagenes/4566.jpg" background="http://s0lc.net:8080/imagenes/4566.jpg" />
+      </media:content>
+    </item>
+	  <item>
+      <title>COMBATE</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/10603.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/imagenes/10603.jpg" background="http://s0lc.net:8080/imagenes/10603.jpg" />
+      </media:content>
+    </item>
+	  <item>
+      <title>D SPORTS 2 ARG</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/2863.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/imagenes/2863.jpg" background="http://s0lc.net:8080/imagenes/2863.jpg" />
+      </media:content>
+    </item>
+	  <item>
+      <title>D SPORTS ARGENTINA</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/1017.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_d_sports.png" background="http://s0lc.net:8080/images/dep_d_sports.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>D SPORTS COLOMBIA</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/18898.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_d_sports.png" background="http://s0lc.net:8080/images/dep_d_sports.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>D SPORTS FIGHT</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/31038.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_dsports_fight.png" background="http://s0lc.net:8080/images/dep_dsports_fight.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>D SPORTS MOTOR</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/39054.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_d_sports_motor.png" background="http://s0lc.net:8080/images/dep_d_sports_motor.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>D SPORTS PLUS</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/5410.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/imagenes/5410.jpg" background="http://s0lc.net:8080/imagenes/5410.jpg" />
+      </media:content>
+    </item>
+	  <item>
+      <title>D SPORTS PLUS COLOMBIA</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/18899.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/imagenes/18899.jpg" background="http://s0lc.net:8080/imagenes/18899.jpg" />
+      </media:content>
+    </item>
+	  <item>
+      <title>DAZN 1</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/22083.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_dazn.png" background="http://s0lc.net:8080/images/dep_dazn.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>DAZN 2</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/22084.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_dazn.png" background="http://s0lc.net:8080/images/dep_dazn.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>DAZN 3</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/22085.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_dazn.png" background="http://s0lc.net:8080/images/dep_dazn.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>DAZN 4</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/22086.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_dazn.png" background="http://s0lc.net:8080/images/dep_dazn.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>DAZN F1 HD</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/431.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/imagenes/431.jpg" background="http://s0lc.net:8080/imagenes/431.jpg" />
+      </media:content>
+    </item>
+	  <item>
+      <title>DAZN LA LIGA</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/33748.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_dazn_laliga.png" background="http://s0lc.net:8080/images/dep_dazn_laliga.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>EL CANAL DEL FUTBOL</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/19288.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_ecdf.png" background="http://s0lc.net:8080/images/dep_ecdf.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>ELEVEN SPORTS</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/2851.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/imagenes/2851.jpg" background="http://s0lc.net:8080/imagenes/2851.jpg" />
+      </media:content>
+    </item>
+	  <item>
+      <title>ELEVEN SPORTS 2</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/14813.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/imagenes/14813.jpg" background="http://s0lc.net:8080/imagenes/14813.jpg" />
+      </media:content>
+    </item>
+	  <item>
+      <title>ELEVEN SPORTS 3</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/14814.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/imagenes/14814.jpg" background="http://s0lc.net:8080/imagenes/14814.jpg" />
+      </media:content>
+    </item>
+	  <item>
+      <title>ELEVEN SPORTS 4</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/14828.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/imagenes/14828.jpg" background="http://s0lc.net:8080/imagenes/14828.jpg" />
+      </media:content>
+    </item>
+	  <item>
+      <title>ESPN (AR)</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/2858.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_espn.png" background="http://s0lc.net:8080/images/dep_espn.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>ESPN 2 (AR)</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/4049.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_espn_2.png" background="http://s0lc.net:8080/images/dep_espn_2.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>ESPN 2 MX</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/92.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_espn_2.png" background="http://s0lc.net:8080/images/dep_espn_2.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>ESPN 2 MX (1080p)</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/152.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_espn_2.png" background="http://s0lc.net:8080/images/dep_espn_2.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>ESPN 2 US</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/236.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_espn_2.png" background="http://s0lc.net:8080/images/dep_espn_2.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>ESPN 3 (AR)</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/2860.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_espn_3.png" background="http://s0lc.net:8080/images/dep_espn_3.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>ESPN 3 MX</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/93.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_espn_3.png" background="http://s0lc.net:8080/images/dep_espn_3.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>ESPN 4 (AR)</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/29460.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_espn_4.png" background="http://s0lc.net:8080/images/dep_espn_4.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>ESPN 4 MX</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/110.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_espn_extra.png" background="http://s0lc.net:8080/images/dep_espn_extra.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>ESPN 5</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/46079.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_espn_5.png" background="http://s0lc.net:8080/images/dep_espn_5.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>ESPN 6</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/46078.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_espn_6.png" background="http://s0lc.net:8080/images/dep_espn_6.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>ESPN 7</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/18659.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_espn_7.png" background="http://s0lc.net:8080/images/dep_espn_7.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>ESPN DEPORTES </title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/15661.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_espn_deportes.png" background="http://s0lc.net:8080/images/dep_espn_deportes.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>ESPN MX</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/91.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_espn.png" background="http://s0lc.net:8080/images/dep_espn.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>ESPN MX (1080p)</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/119.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_espn.png" background="http://s0lc.net:8080/images/dep_espn.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>ESPN PREMIUM (AR)</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/3396.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_espn_premium.png" background="http://s0lc.net:8080/images/dep_espn_premium.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>ESPN PREMIUM (CHILE)</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/1746.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_espn_premium.png" background="http://s0lc.net:8080/images/dep_espn_premium.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>ESPN US</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/286.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_espn.png" background="http://s0lc.net:8080/images/dep_espn.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>ESPNU</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/234.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_espn_u.png" background="http://s0lc.net:8080/images/dep_espn_u.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>EUROSPORTS 1 ESP</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/1832.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/imagenes/1832.jpg" background="http://s0lc.net:8080/imagenes/1832.jpg" />
+      </media:content>
+    </item>
+	  <item>
+      <title>EUROSPORTS 2 ESP</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/1831.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/imagenes/1831.jpg" background="http://s0lc.net:8080/imagenes/1831.jpg" />
+      </media:content>
+    </item>
+	  <item>
+      <title>FOX DEPORTES</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/2844.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/imagenes/2844.jpg" background="http://s0lc.net:8080/imagenes/2844.jpg" />
+      </media:content>
+    </item>
+	  <item>
+      <title>FOX SOCCER PLUS</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/2435.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/imagenes/2435.jpg" background="http://s0lc.net:8080/imagenes/2435.jpg" />
+      </media:content>
+    </item>
+	  <item>
+      <title>FOX SPORTS  (AR)</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/1820.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_fox_sports.png" background="http://s0lc.net:8080/images/dep_fox_sports.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>FOX SPORTS 1 (USA)</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/232.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_fs1.png" background="http://s0lc.net:8080/images/dep_fs1.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>FOX SPORTS 2 (AR)</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/1821.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_fox_sports_2.png" background="http://s0lc.net:8080/images/dep_fox_sports_2.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>FOX SPORTS 2 (USA)</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/20346.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_fs2.png" background="http://s0lc.net:8080/images/dep_fs2.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>FOX SPORTS 2 MX</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/95.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_fox_sports_2.png" background="http://s0lc.net:8080/images/dep_fox_sports_2.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>FOX SPORTS 2 MX (1080p)</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/151.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_fox_sports_2.png" background="http://s0lc.net:8080/images/dep_fox_sports_2.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>FOX SPORTS 3  MX (720)</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/1822.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/imagenes/1822.jpg" background="http://s0lc.net:8080/imagenes/1822.jpg" />
+      </media:content>
+    </item>
+	  <item>
+      <title>FOX SPORTS 3 (AR)</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/12551.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/imagenes/12551.jpg" background="http://s0lc.net:8080/imagenes/12551.jpg" />
+      </media:content>
+    </item>
+	  <item>
+      <title>FOX SPORTS 3 MX</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/4140.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/imagenes/4140.jpg" background="http://s0lc.net:8080/imagenes/4140.jpg" />
+      </media:content>
+    </item>
+	  <item>
+      <title>FOX SPORTS MX</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/94.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_fox_sports.png" background="http://s0lc.net:8080/images/dep_fox_sports.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>FOX SPORTS MX (1080p)</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/118.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_fox_sports.png" background="http://s0lc.net:8080/images/dep_fox_sports.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>FOX SPORTS PREMIUM (MX)</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/31514.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_fox_sports_premium.png" background="http://s0lc.net:8080/images/dep_fox_sports_premium.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>FUBO SPORTS NETWORK</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/28527.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_fubo_sports_network.png" background="http://s0lc.net:8080/images/dep_fubo_sports_network.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>FUTV</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/16153.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/imagenes/16153.jpg" background="http://s0lc.net:8080/imagenes/16153.jpg" />
+      </media:content>
+    </item>
+	  <item>
+      <title>GOL (ESP)</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/19190.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_gol_es.png" background="http://s0lc.net:8080/images/dep_gol_es.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>GOLF CHANNEL (USA)</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/39409.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_golf_channel.png" background="http://s0lc.net:8080/images/dep_golf_channel.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>GOLF LATINOAMERICA</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/4141.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/imagenes/4141.jpg" background="http://s0lc.net:8080/imagenes/4141.jpg" />
+      </media:content>
+    </item>
+	  <item>
+      <title>GOLPERU</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/488.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/imagenes/488.jpg" background="http://s0lc.net:8080/imagenes/488.jpg" />
+      </media:content>
+    </item>
+	  <item>
+      <title>GOLTV</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/2848.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/imagenes/2848.jpg" background="http://s0lc.net:8080/imagenes/2848.jpg" />
+      </media:content>
+    </item>
+	  <item>
+      <title>HI SPORTS </title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/48200.m3u8">
+        <media:thumbnail url="" background="" />
+      </media:content>
+    </item>
+	  <item>
+      <title>HOLA</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/35094.m3u8">
+        <media:thumbnail url="" background="" />
+      </media:content>
+    </item>
+	  <item>
+      <title>HOLA 2</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/35095.m3u8">
+        <media:thumbnail url="" background="" />
+      </media:content>
+    </item>
+	  <item>
+      <title>LALIGA TV  </title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/460.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/imagenes/460.jpg" background="http://s0lc.net:8080/imagenes/460.jpg" />
+      </media:content>
+    </item>
+	  <item>
+      <title>LIGA 1</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/40294.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_liga1.png" background="http://s0lc.net:8080/images/dep_liga1.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>LIGA 1 MAX </title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/40295.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_liga1max.png" background="http://s0lc.net:8080/images/dep_liga1max.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>MLB NETWORK</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/1453.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/imagenes/1453.jpg" background="http://s0lc.net:8080/imagenes/1453.jpg" />
+      </media:content>
+    </item>
+	  <item>
+      <title>MOVISTAR DEPORTES (ESP)</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/441.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_movistar_depo.png" background="http://s0lc.net:8080/images/dep_movistar_depo.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>MOVISTAR DEPORTES (PERU)</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/27556.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_movistar_depo.png" background="http://s0lc.net:8080/images/dep_movistar_depo.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>MOVISTAR GOLF</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/440.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_movistar_golf.png" background="http://s0lc.net:8080/images/dep_movistar_golf.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>MOVISTAR LIGA DE CAMPEONES </title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/15660.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_movistar_liga_cam.png" background="http://s0lc.net:8080/images/dep_movistar_liga_cam.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>NBA TV</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/347.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_nbatv.png" background="http://s0lc.net:8080/images/dep_nbatv.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>NBC DEPORTES</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/2434.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/imagenes/2434.jpg" background="http://s0lc.net:8080/imagenes/2434.jpg" />
+      </media:content>
+    </item>
+	  <item>
+      <title>NFL NETWORK</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/215.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/imagenes/215.jpg" background="http://s0lc.net:8080/imagenes/215.jpg" />
+      </media:content>
+    </item>
+	  <item>
+      <title>NFL REDZONE</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/14955.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/imagenes/14955.jpg" background="http://s0lc.net:8080/imagenes/14955.jpg" />
+      </media:content>
+    </item>
+	  <item>
+      <title>NHL NETWORK</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/3679.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/imagenes/3679.jpg" background="http://s0lc.net:8080/imagenes/3679.jpg" />
+      </media:content>
+    </item>
+	  <item>
+      <title>ONETORO TV</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/439.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/imagenes/439.jpg" background="http://s0lc.net:8080/imagenes/439.jpg" />
+      </media:content>
+    </item>
+	  <item>
+      <title>OUTDOOR CHANNEL</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/5470.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/imagenes/5470.jpg" background="http://s0lc.net:8080/imagenes/5470.jpg" />
+      </media:content>
+    </item>
+	  <item>
+      <title>PREMIERE CLUBES (BR)</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/38311.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_premiere_clubes.png" background="http://s0lc.net:8080/images/dep_premiere_clubes.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>PX SPORTS</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/96.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_px_sports.png" background="http://s0lc.net:8080/images/dep_px_sports.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>RACING.COM</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/18096.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/imagenes/18096.jpg" background="http://s0lc.net:8080/imagenes/18096.jpg" />
+      </media:content>
+    </item>
+	  <item>
+      <title>REAL MADRID TV HD</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/1786.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/imagenes/1786.jpg" background="http://s0lc.net:8080/imagenes/1786.jpg" />
+      </media:content>
+    </item>
+	  <item>
+      <title>REDBULL TV</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/10077.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/imagenes/10077.jpg" background="http://s0lc.net:8080/imagenes/10077.jpg" />
+      </media:content>
+    </item>
+	  <item>
+      <title>SEC NETWORK</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/38379.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_sec_network.png" background="http://s0lc.net:8080/images/dep_sec_network.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>SKY SPORTS ARENA</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/39180.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_sky_sports_arena.png" background="http://s0lc.net:8080/images/dep_sky_sports_arena.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>SKY SPORTS CRICKET</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/4563.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/imagenes/4563.jpg" background="http://s0lc.net:8080/imagenes/4563.jpg" />
+      </media:content>
+    </item>
+	  <item>
+      <title>SKY SPORTS F1</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/4564.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/imagenes/4564.jpg" background="http://s0lc.net:8080/imagenes/4564.jpg" />
+      </media:content>
+    </item>
+	  <item>
+      <title>SKY SPORTS FOOTBALL</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/5320.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/imagenes/5320.jpg" background="http://s0lc.net:8080/imagenes/5320.jpg" />
+      </media:content>
+    </item>
+	  <item>
+      <title>SKY SPORTS GOLF</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/4561.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/imagenes/4561.jpg" background="http://s0lc.net:8080/imagenes/4561.jpg" />
+      </media:content>
+    </item>
+	  <item>
+      <title>SKY SPORTS MAIN EVENT </title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/39182.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_sky_sports_main_event.png" background="http://s0lc.net:8080/images/dep_sky_sports_main_event.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>SKY SPORTS MIX </title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/39181.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_sky_sports_mix.png" background="http://s0lc.net:8080/images/dep_sky_sports_mix.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>SKY SPORTS NEWS</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/14096.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/imagenes/14096.jpg" background="http://s0lc.net:8080/imagenes/14096.jpg" />
+      </media:content>
+    </item>
+	  <item>
+      <title>SKY SPORTS PREMIER LEAGUE</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/4560.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/imagenes/4560.jpg" background="http://s0lc.net:8080/imagenes/4560.jpg" />
+      </media:content>
+    </item>
+	  <item>
+      <title>SKY SPORTS RACING</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/39183.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_sky_sports_racing.png" background="http://s0lc.net:8080/images/dep_sky_sports_racing.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>SPORTS 1 </title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/47770.m3u8">
+        <media:thumbnail url="https://images.ctfassets.net/upygmu80yh8z/YWvYbD0WrRYQGQWKgY8vg/799b392ef4b1b964415a4347ef097448/Sky-Sports-color.png" background="https://images.ctfassets.net/upygmu80yh8z/YWvYbD0WrRYQGQWKgY8vg/799b392ef4b1b964415a4347ef097448/Sky-Sports-color.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>SPORTS BUNDESLIGA </title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/47773.m3u8">
+        <media:thumbnail url="https://images.ctfassets.net/upygmu80yh8z/YWvYbD0WrRYQGQWKgY8vg/799b392ef4b1b964415a4347ef097448/Sky-Sports-color.png" background="https://images.ctfassets.net/upygmu80yh8z/YWvYbD0WrRYQGQWKgY8vg/799b392ef4b1b964415a4347ef097448/Sky-Sports-color.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>SPORTS FEMENIL </title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/47772.m3u8">
+        <media:thumbnail url="https://images.ctfassets.net/upygmu80yh8z/YWvYbD0WrRYQGQWKgY8vg/799b392ef4b1b964415a4347ef097448/Sky-Sports-color.png" background="https://images.ctfassets.net/upygmu80yh8z/YWvYbD0WrRYQGQWKgY8vg/799b392ef4b1b964415a4347ef097448/Sky-Sports-color.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>SPORTS LIGA </title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/47771.m3u8">
+        <media:thumbnail url="https://images.ctfassets.net/upygmu80yh8z/YWvYbD0WrRYQGQWKgY8vg/799b392ef4b1b964415a4347ef097448/Sky-Sports-color.png" background="https://images.ctfassets.net/upygmu80yh8z/YWvYbD0WrRYQGQWKgY8vg/799b392ef4b1b964415a4347ef097448/Sky-Sports-color.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>SPORTV (BR) </title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/37028.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_sportv.png" background="http://s0lc.net:8080/images/dep_sportv.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>TELEDEPORTES</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/424.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/imagenes/424.jpg" background="http://s0lc.net:8080/imagenes/424.jpg" />
+      </media:content>
+    </item>
+	  <item>
+      <title>TELETRAK</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/1780.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/imagenes/1780.jpg" background="http://s0lc.net:8080/imagenes/1780.jpg" />
+      </media:content>
+    </item>
+	  <item>
+      <title>TENNIS CHANNEL</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/12770.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/imagenes/12770.jpg" background="http://s0lc.net:8080/imagenes/12770.jpg" />
+      </media:content>
+    </item>
+	  <item>
+      <title>TENNIS CHANNEL 2</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/40794.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_tenis_cha2.png" background="http://s0lc.net:8080/images/dep_tenis_cha2.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>TIGO  SPORTS 1 BOLIVIA</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/12141.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_tigo_sports.png" background="http://s0lc.net:8080/images/dep_tigo_sports.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>TIGO  SPORTS 2 BOLIVIA (SOLO PARTIDOS)</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/12140.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/imagenes/12140.jpg" background="http://s0lc.net:8080/imagenes/12140.jpg" />
+      </media:content>
+    </item>
+	  <item>
+      <title>TIGO SPORTS  COSTA RICA</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/12138.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_tigo_sports.png" background="http://s0lc.net:8080/images/dep_tigo_sports.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>TIGO SPORTS PARAGUAY</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/20318.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_tigo_sports.png" background="http://s0lc.net:8080/images/dep_tigo_sports.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>TIGO SPORTS PLUS BOLIVIA (SOLO PARTIDOS)</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/12139.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/imagenes/12139.jpg" background="http://s0lc.net:8080/imagenes/12139.jpg" />
+      </media:content>
+    </item>
+	  <item>
+      <title>TNT SPORTS 1 UK</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/20533.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_tnt_sports.png" background="http://s0lc.net:8080/images/dep_tnt_sports.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>TNT SPORTS 2 CHILE</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/28844.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_tnt_sports2.png" background="http://s0lc.net:8080/images/dep_tnt_sports2.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>TNT SPORTS 2 UK</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/20534.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_tnt_sports.png" background="http://s0lc.net:8080/images/dep_tnt_sports.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>TNT SPORTS AR</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/3395.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_tnt_sports.png" background="http://s0lc.net:8080/images/dep_tnt_sports.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>TNT SPORTS CHILE  HD</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/8920.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_tnt_sports.png" background="http://s0lc.net:8080/images/dep_tnt_sports.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>TNT SPORTS CHILE SD</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/5389.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_tnt_sports.png" background="http://s0lc.net:8080/images/dep_tnt_sports.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>TRACE SPORT STARS</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/28528.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_trace_sport_stars.png" background="http://s0lc.net:8080/images/dep_trace_sport_stars.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>TSN SPORTS 1</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/4031.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_tsn_1.png" background="http://s0lc.net:8080/images/dep_tsn_1.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>TSN SPORTS 2</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/4032.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_tsn_2.png" background="http://s0lc.net:8080/images/dep_tsn_2.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>TSN SPORTS 3</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/4033.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_tsn_3.png" background="http://s0lc.net:8080/images/dep_tsn_3.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>TSN SPORTS 4</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/4034.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_tsn_4.png" background="http://s0lc.net:8080/images/dep_tsn_4.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>TSN SPORTS 5</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/4035.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_tsn_5.png" background="http://s0lc.net:8080/images/dep_tsn_5.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>TUDN (USA)</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/164.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_tudn.png" background="http://s0lc.net:8080/images/dep_tudn.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>TUDN MX</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/14642.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_tudn.png" background="http://s0lc.net:8080/images/dep_tudn.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>TUDN MX (1080p)</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/5412.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_tudn.png" background="http://s0lc.net:8080/images/dep_tudn.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>TVC DEPORTES</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/3507.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/imagenes/3507.jpg" background="http://s0lc.net:8080/imagenes/3507.jpg" />
+      </media:content>
+    </item>
+	  <item>
+      <title>TYC SPORTS (ARG)</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/1790.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/imagenes/1790.jpg" background="http://s0lc.net:8080/imagenes/1790.jpg" />
+      </media:content>
+    </item>
+	  <item>
+      <title>UFC FIGHT PASS</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/5105.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/imagenes/5105.jpg" background="http://s0lc.net:8080/imagenes/5105.jpg" />
+      </media:content>
+    </item>
+	  <item>
+      <title>VAMOS</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/3674.m3u8">
+        <media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vamos_por_Movistar_Plus%2B_2022_logo.svg/512px-Vamos_por_Movistar_Plus%2B_2022_logo.svg.png" background="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vamos_por_Movistar_Plus%2B_2022_logo.svg/512px-Vamos_por_Movistar_Plus%2B_2022_logo.svg.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>WIN SPORTS</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/14704.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/imagenes/14704.jpg" background="http://s0lc.net:8080/imagenes/14704.jpg" />
+      </media:content>
+    </item>
+	  <item>
+      <title>WIN SPORTS (720p)</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/1036.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/imagenes/1036.jpg" background="http://s0lc.net:8080/imagenes/1036.jpg" />
+      </media:content>
+    </item>
+	  <item>
+      <title>WIN SPORTS +</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/15712.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/imagenes/15712.jpg" background="http://s0lc.net:8080/imagenes/15712.jpg" />
+      </media:content>
+    </item>
+	  <item>
+      <title>WORLD BILLIARDS TV</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/34724.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_world_billardstv.png" background="http://s0lc.net:8080/images/dep_world_billardstv.png" />
+      </media:content>
+    </item>
+	  <item>
+      <title>WWE</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/1730.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/imagenes/1730.jpg" background="http://s0lc.net:8080/imagenes/1730.jpg" />
+      </media:content>
+    </item>
+	  <item>
+      <title>YES NETWORKS</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/9562.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/imagenes/9562.jpg" background="http://s0lc.net:8080/imagenes/9562.jpg" />
+      </media:content>
+    </item>
+	  <item>
+      <title>ZONA TUDN</title>
+      <description></description>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mkv" width="1280" isDefault="true" url="http://latinchannel.tv:8080/live/099300399/julio2027/33000.m3u8">
+        <media:thumbnail url="http://s0lc.net:8080/images/dep_zona_tudn.png" background="http://s0lc.net:8080/images/dep_zona_tudn.png" />
+      </media:content>
+    </item>
+  </channel>
+</rss>
