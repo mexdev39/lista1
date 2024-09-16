@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <categories>
     <category title="12 Monos" description="" sd_img="https://image.tmdb.org/t/p/w600_and_h900_bestv2/voNOPx0FJMgNdqByMgQb3MW0Tyi.jpg" background_series="https://image.tmdb.org/t/p/w1280/11ihDM8QlLI0BIOGPQpgQ5MfH1n.jpg">
-        <categoryLeaf title="Temporada 1" description=""  feed="latinchannel.tv/ROKU/V3/series/genera/099300399/julio2027/724/1"></categoryLeaf>
+        <categoryLeaf title="Temporada 1" description=""  feed="http://raw.githubusercontent.com/mexdev39/lista1/main/temp1.rss"></categoryLeaf>
         <categoryLeaf title="Temporada 2" description=""  feed="latinchannel.tv/ROKU/V3/series/genera/099300399/julio2027/724/2"></categoryLeaf>
         <categoryLeaf title="Temporada 3" description=""  feed="latinchannel.tv/ROKU/V3/series/genera/099300399/julio2027/724/3"></categoryLeaf>
     </category>
