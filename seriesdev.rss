@@ -2,8 +2,6 @@
 <categories>
     <category title="12 Monos" description="" sd_img="https://image.tmdb.org/t/p/w600_and_h900_bestv2/voNOPx0FJMgNdqByMgQb3MW0Tyi.jpg" background_series="https://image.tmdb.org/t/p/w1280/11ihDM8QlLI0BIOGPQpgQ5MfH1n.jpg">
         <categoryLeaf title="Temporada 1" description=""  feed="http://raw.githubusercontent.com/mexdev39/lista1/main/temp1.rss"></categoryLeaf>
-        <categoryLeaf title="Temporada 2" description=""  feed="latinchannel.tv/ROKU/V3/series/genera/099300399/julio2027/724/2"></categoryLeaf>
-        <categoryLeaf title="Temporada 3" description=""  feed="latinchannel.tv/ROKU/V3/series/genera/099300399/julio2027/724/3"></categoryLeaf>
     </category>
     <category title="1883" description="" sd_img="https://image.tmdb.org/t/p/w600_and_h900_bestv2/waLbm384SQDwLTCn6ttPqQS5kfV.jpg" background_series="https://image.tmdb.org/t/p/w1280/uQUHCqxHsG9blvtCoL7vluMG9Jp.jpg">
         <categoryLeaf title="Temporada 1" description=""  feed="latinchannel.tv/ROKU/V3/series/genera/099300399/julio2027/494/1"></categoryLeaf>
