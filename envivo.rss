@@ -2,7 +2,7 @@
         "categorias": [
             {
                     "TITLE" : "DEPORTES - SPORTS",
-                    "ContentList" : "http://latinchannel.tv/ROKU/V3/tv/tv.php?username=099300399&password=julio2027&cat=7&f=.rss"
+                    "ContentList" : "https://raw.githubusercontent.com/mexdev39/lista1/main/deportess.rss"
             }
         ]
 } 
